@@ -40,12 +40,3 @@ Start the server
 ```bash
 npm start
 ```
-
-
-## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
-
-- [React Creatable](https://react-select.com/creatable)
-- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#access-control-expose-headers)
-- [Upgrad](https://www.upgrad.com/)
