@@ -2,17 +2,7 @@
 
 <h1>React-App</h1>
 <p>E-Commerce Website (Good Looking)</p>
-
-<h4> <span> · </span> <a href="https://github.com/utkarsh-vishnoi/C4_Project/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/utkarsh-vishnoi/C4_Project/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/utkarsh-vishnoi/C4_Project/issues"> Request Feature </a> </h4>
-
-
 </div>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-- [Contributing](#wave-contributing)
-- [Acknowledgements](#gem-acknowledgements)
 
 
 ## :star2: About the Project
@@ -33,7 +23,6 @@
 ```bash
 npm install
 ```
-- Backend should be setup<a href="https://github.com/mohinishjoshi/ecommerce-upgrad"> Here</a>
 
 
 ### :running: Run Locally
@@ -41,11 +30,7 @@ npm install
 Clone the project
 
 ```bash
-https://github.com/Utkarsh-vishnoi/C4_Project
-```
-Go to the project directory
-```bash
-cd C4_Project
+https://github.com/Yatin-kathuria/upgrad-ecommerce-project
 ```
 Install dependencies
 ```bash
@@ -56,14 +41,6 @@ Start the server
 npm start
 ```
 
-
-## :wave: Contributing
-
-<a href="https://github.com/Utkarsh-vishnoi/C4_Project/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
 
 ## :gem: Acknowledgements
 
